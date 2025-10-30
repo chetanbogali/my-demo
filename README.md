@@ -1,4 +1,4 @@
 # my-demo
 This my demo repository
 <br>
-Author - Chetan
+Author - Chetan (SAP UI5 consultant)
